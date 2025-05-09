@@ -14,7 +14,7 @@ public abstract class LabyrinthActor extends Actor {
      * Wenn 'SHOW_MARKER' wahr ist werden die von den Arbeitern erstellten Marker angezeigt. Sonst wird ein leeres Bild verwendet.
      * 
      */
-    protected static final boolean SHOW_MARKER = false;
+    protected static final boolean SHOW_MARKER = true;
     /**
      * Wenn 'SHOW_WORKER' wahr ist werden die Arbeiter angezeigt. Sonst wird ein leeres Bild verwendet.
      * 
